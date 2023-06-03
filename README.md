@@ -2,7 +2,11 @@
 
 ## Objetivo
 Esse jogo de tabuleiro foi o primeiro trabalho de MAT1303/MAT2461, Elementos Matemáticos de Computação Gráfica na PUC-Rio.
-O objetivo foi recriar um jogo de tabuleiro sorteado em C++, utilizando a biblioteca gráfica OpenGL.
+O objetivo foi recriar um jogo de tabuleiro sorteado em C++, utilizando a biblioteca gráfica OpenGL, a partir da API freeGLUT.
+
+## Requerimentos
+- C++
+- freeGLUT
 
 ## Instruções
 Para mover as peças, o jogador do turno deve clicar na peça uma vez, e então na casa desejada.
