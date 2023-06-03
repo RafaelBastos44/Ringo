@@ -22,3 +22,6 @@ O defensor pode capturar um atacante na casa central.
 
 O atacante vence ao colocar duas peças na casa central, ou ao capturar todos os defensores.
 O defensor vence apenas ao reduzir o número de peças do atacante a 1.
+
+Para compilar o código, utilize o comando a seguir:
+g++ ringo.cpp -lglut -lGL -lGLU
